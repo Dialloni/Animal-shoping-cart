@@ -1,0 +1,66 @@
+/* add your CSS here */.wolf-container{
+    border: 1px solid black;
+    width: 310px;
+    height: 830px;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 3px;
+    margin-right: 30px;
+    border-radius: 1px;
+    box-shadow: -1px -1px black, 1px 0px black, 0px 1px black;
+    background-color: azure;
+    
+    }      
+    .title{
+        color: black;
+        padding-left: 5px;
+        margin: 2px;   
+    }
+       .image{
+           height: 200px;
+           width: 300px;
+           object-fit:cover;
+       }
+    
+    .imagebox {
+      border: 2px solid white;
+      margin: 4px;
+      padding: 0em;
+      width: 300px;
+      height: 200px;
+      border-radius: 1px;
+      box-shadow: -1px -1px black, 1px 0px black, 0px 1px black;
+    }
+    .wolf-detail-container{
+        margin: 5px;
+        padding:1px;
+        width: 300px;
+        height: 590px;
+        border: 1px solid black;
+        border-radius: 1px;
+        box-shadow: -1px -1px black, 1px 0px black, 0px 1px black;
+    }
+    .wolf-fact{
+        border: 1px solid white;
+        font-style: italic;
+        height: 110px;
+    }
+    .wolf-list{
+        border: 1px solid white;
+        list-style: none;
+        padding: 0px;
+        margin:5px ;
+        box-sizing: border-box;
+    
+    }
+    .wolf-description{
+        border: 1px solid white;
+        font-family: serif;
+        padding: 0.5px;
+        margin: 5px;
+        height: 330px;
+    }
+    ul{
+        padding: 0px;
+      list-style: none;
+    }
